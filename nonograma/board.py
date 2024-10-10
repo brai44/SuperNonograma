@@ -21,3 +21,4 @@ class Tablero:
     def print_board(self):
         for row in self.board:
             print(row)
+            #
